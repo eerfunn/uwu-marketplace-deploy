@@ -1,3 +1,7 @@
+Copyright 2021 Build With Angga
+Copyright 2021 Galih Pratama
+Copyright 2021-2022 Irfan Nada Bayu Samudera
+
 UwU Marketplace for Portfolio Project
 
 Build as a final project for Full Stack Web Developer: Toko Online course@BuildWith Angga// This will removed in future updates
