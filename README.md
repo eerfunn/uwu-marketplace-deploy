@@ -1,4 +1,4 @@
-Copyright 2021 Build With Angga
+Copyright 2021 BuildWith Angga
 Copyright 2021 Galih Pratama
 Copyright 2021-2022 Irfan Nada Bayu Samudera
 
