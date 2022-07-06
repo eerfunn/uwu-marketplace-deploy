@@ -16,7 +16,7 @@
 6. Etc.
 
 Copyright 2021 - 2022 BuildWith Angga
-Copyright 2021 - 2922 Galih Pratama
+Copyright 2021 - 2022 Galih Pratama
 Copyright 2021 - 2022 Irfan Nada Bayu Samudera
 
 ## Thanks for your visit!
