@@ -1,20 +1,22 @@
-Copyright 2021 BuildWith Angga
-Copyright 2021 Galih Pratama
-Copyright 2021-2022 Irfan Nada Bayu Samudera
+### Marketplace
+# Portfolio project
+# Class "Full stack web developer: Toko Online" by BuildWith Angga
 
-UwU Marketplace for Portfolio Project
+## Features:
+1. User can be seller and buyer
+2. Midtrans payment gateway integration
+3. And other basic marketplace features.
 
-Build as a final project for Full Stack Web Developer: Toko Online course@BuildWith Angga// This will removed in future updates
+## Tech:
+1. Laravel 8
+2. Vue Js
+3. Midtrans
+4. Sentry
+5. Mail io
+6. Etc.
 
-Developed under BSD-3-Clause (https://opensource.org/licenses/BSD-3-Clause) license.
-Copyright 2021-2022 Irfan Nada Bayu Samudera
+Copyright 2021 - 2022 BuildWith Angga
+Copyright 2021 - 2922 Galih Pratama
+Copyright 2021 - 2022 Irfan Nada Bayu Samudera
 
-Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
-
-1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
-
-2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
-
-3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+## Thanks for your visit!
